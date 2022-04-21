@@ -1,6 +1,6 @@
 """
     2738번: 행렬 덧셈
-    Create by Kim Gayoun on 2022-04-15
+    Create by Kim Gayoun on 2022-04-21
 """
 import sys
 input = sys.stdin.readline

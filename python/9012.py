@@ -1,6 +1,6 @@
 """
     9012번: 괄호
-    Create by Kim Gayoun on 2022-04-15
+    Create by Kim Gayoun on 2022-04-20
 """
 import sys
 input = sys.stdin.readline
