@@ -1,3 +1,7 @@
+"""
+    10250번: ACM 호텔
+    Create by Kim Gayoun on 2022-03-27
+"""
 
 
 if __name__ == "__main__":

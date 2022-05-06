@@ -1,3 +1,7 @@
+"""
+    10818번: 최소, 최대
+    Create by Kim Gayoun on 2022-03-23
+"""
 
 
 if __name__ == "__main__":
