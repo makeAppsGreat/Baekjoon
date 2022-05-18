@@ -1,5 +1,7 @@
-
-
+"""
+    11053번: 가장 긴 증가하는 부분 수열
+    Create by Kim Gayoun on 2022-04-11
+"""
 if __name__ == "__main__":
     N = int(input())
     A = list( map(int, input().split()) )

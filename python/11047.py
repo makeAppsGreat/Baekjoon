@@ -1,3 +1,7 @@
+"""
+    11047번: 동전 0
+    Create by Kim Gayoun on 2022-04-09
+"""
 import sys
 input = sys.stdin.readline
 
