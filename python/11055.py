@@ -1,5 +1,7 @@
-
-
+"""
+    11055번: 가장 큰 증가 부분 수열
+    Create by Kim Gayoun on 2022-04-12
+"""
 if __name__ == "__main__":
     N = int(input())
     A = list( map(int, input().split()) )

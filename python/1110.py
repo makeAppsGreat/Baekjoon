@@ -1,5 +1,7 @@
-
-
+"""
+    1110번: 더하기 사이클
+    Create by Kim Gayoun on 2022-03-22
+"""
 if __name__ == "__main__":
     x = int(input())
     i, k = 0, x

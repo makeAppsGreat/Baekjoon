@@ -1,6 +1,7 @@
-""" 2022-03-22 """
-
-
+"""
+    1175번: 단어 공부
+    Create by Kim Gayoun on 2022-03-24
+"""
 if __name__ == "__main__":
     alpha = [ 0 ] * 26
     word = list(input().upper())

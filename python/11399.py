@@ -1,5 +1,7 @@
-
-
+"""
+    11399번: ATM
+    Create by Kim Gayoun on 2022-04-06
+"""
 if __name__ == "__main__":
     N = input()
     P = list(map(int, input().split()))
