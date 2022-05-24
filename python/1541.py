@@ -1,5 +1,7 @@
-
-
+"""
+    1541번: 잃어버린 괄호
+    Create by Kim Gayoun on 2022-04-07
+"""
 if __name__ == "__main__":
     __input, result = input().split('-', maxsplit=1), 0
 

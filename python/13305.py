@@ -1,5 +1,7 @@
-
-
+"""
+    13305번: 주유소
+    Create by Kim Gayoun on 2022-04-02
+"""
 if __name__ == "__main__":
     N = int(input())
     l = list(map(int, input().split()))
