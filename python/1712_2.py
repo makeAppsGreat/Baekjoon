@@ -1,4 +1,7 @@
-""" 2022-03-24 """
+"""
+    1712번: 손익분기점
+    Create by Kim Gayoun on 2022-03-25
+"""
 import time
 
 

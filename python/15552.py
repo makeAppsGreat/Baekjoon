@@ -1,3 +1,7 @@
+"""
+    15552번: 빠른 A+B
+    Create by Kim Gayoun on 2022-03-22
+"""
 import sys
 
 
