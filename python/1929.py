@@ -1,5 +1,9 @@
-# 시간 초과
+"""
+    1929번: 소수 구하기
+    Create by Kim Gayoun on 2022-04-02
 
+    # 시간 초과
+"""
 if __name__ == "__main__":
     M, N = map(int, input().split())
     p = list()

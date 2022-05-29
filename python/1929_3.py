@@ -1,5 +1,7 @@
-
-
+"""
+    1929번: 소수 구하기
+    Create by Kim Gayoun on 2022-04-03
+"""
 def isPrime( num ):
     if num < 2: return False
     else:
