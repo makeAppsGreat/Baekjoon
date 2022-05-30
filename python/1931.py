@@ -1,5 +1,7 @@
-
-
+"""
+    1931번: 회의실 배정
+    Create by Kim Gayoun on 2022-04-05
+"""
 if __name__ == "__main__":
     N = int(input())
     ml, g = list(), [ (0, 0) ]

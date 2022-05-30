@@ -1,5 +1,7 @@
-
-
+"""
+    1978번: 소수 찾기
+    Create by Kim Gayoun on 2022-03-30
+"""
 if __name__ == "__main__":
     N = int(input())
     p = list(map(int, input().split()))

@@ -1,5 +1,7 @@
-
-
+"""
+    2525번: 오븐 시계
+    Create by Kim Gayoun on 2022-03-21
+"""
 if __name__ == "__main__":
     i = input().split()
     i.append(input())

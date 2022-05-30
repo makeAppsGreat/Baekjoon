@@ -1,3 +1,7 @@
+"""
+    1946번: 신입 사원
+    Create by Kim Gayoun on 2022-04-06
+"""
 import sys
 input = sys.stdin.readline
 
