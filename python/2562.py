@@ -1,3 +1,7 @@
+"""
+    2562번: 최댓값
+    Create by Kim Gayoun on 2022-04-10
+"""
 import sys
 input = sys.stdin.readline
 

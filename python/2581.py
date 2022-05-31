@@ -1,5 +1,7 @@
-
-
+"""
+    2581번: 소수
+    Create by Kim Gayoun on 2022-03-31
+"""
 if __name__ == "__main__":
     M = int(input())
     N = int(input())

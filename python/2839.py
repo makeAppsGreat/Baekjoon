@@ -1,3 +1,7 @@
+"""
+    2839번: 설탕 배달
+    Create by Kim Gayoun on 2022-03-28
+"""
 # import time
 
 
