@@ -1,5 +1,7 @@
-
-
+"""
+    3009번: 네 번째 점
+    Create by Kim Gayoun on 2022-03-29
+"""
 if __name__ == "__main__":
     # min : 2, max : 999
     x_max, x_min, y_max, y_min = -1, 1000, -1, 1000

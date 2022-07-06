@@ -1,5 +1,7 @@
-
-
+"""
+    4673번: 셀프 넘버
+    Create by Kim Gayoun on 2022-04-14
+"""
 if __name__ == "__main__":
     l = [ i for i in range(1, 10000 + 1) ]
 

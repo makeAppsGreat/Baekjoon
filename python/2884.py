@@ -1,5 +1,7 @@
-
-
+"""
+    2884번: 알람 시계
+    Create by Kim Gayoun on 2022-03-21
+"""
 if __name__ == "__main__":
     input = input().split()
     h = int(input[0]) * 60
@@ -12,7 +14,4 @@ if __name__ == "__main__":
 
 
     print("{} {}".format(x, y))
-
-
-
 

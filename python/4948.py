@@ -1,5 +1,7 @@
-
-
+"""
+    4948번: 베르트랑 공준
+    Create by Kim Gayoun on 2022-04-04
+"""
 if __name__ == "__main__":
     n = 123_456 * 2
     l = [ True for i in range(n * 2 + 1) ]

@@ -1,5 +1,7 @@
-
-
+"""
+    4334번: 평균은 넘겠지
+    Create by Kim Gayoun on 2022-03-23
+"""
 if __name__ == "__main__":
     C = int(input())
 

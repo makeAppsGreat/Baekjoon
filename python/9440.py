@@ -1,5 +1,7 @@
-
-
+"""
+    9440번: 숫자 더하기
+    Create by Kim Gayoun on 2022-04-01
+"""
 if __name__ == "__main__":
     while True:
         n = list(map(int, input().split()))
